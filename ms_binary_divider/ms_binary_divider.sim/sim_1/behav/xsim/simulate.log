@@ -1,0 +1,7 @@
+Vivado Simulator 2018.1
+Time resolution is 1 ps
+Error: Assertion violation
+Time: 5850 ns  Iteration: 1  Process: /ms_bd_tb/test_vector_gen  File: C:/Users/jessi/Documents/Spring 2019/FPGA Design/HW4/ms_binary_divider/ms_binary_divider.srcs/sim_1/new/ms_bd_tb.vhd
+Failure: Simulation Completed
+Time: 5850 ns  Iteration: 1  Process: /ms_bd_tb/test_vector_gen  File: C:/Users/jessi/Documents/Spring 2019/FPGA Design/HW4/ms_binary_divider/ms_binary_divider.srcs/sim_1/new/ms_bd_tb.vhd
+$finish called at time : 5850 ns : File "C:/Users/jessi/Documents/Spring 2019/FPGA Design/HW4/ms_binary_divider/ms_binary_divider.srcs/sim_1/new/ms_bd_tb.vhd" Line 97
